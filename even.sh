@@ -1,4 +1,4 @@
-read n = 10 
+n = 10 
 rem=$(( $n % 2 ))
  
 if [ $rem -eq 0 ]
